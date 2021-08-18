@@ -1,0 +1,191 @@
+.top {
+	background: url('../images/top_background.png') center center no-repeat;
+}
+
+.middle {
+	background: url('../images/middle_background.png') center center no-repeat; 
+}
+
+.bottom {
+	background: url('../images/bottom_background-1.png') center center no-repeat;
+	padding-top: 40px;
+	padding-bottom: 120px;
+}
+
+.bottom_2 {
+	background: url('../images/bottom_background-2.png') center center no-repeat;
+}
+
+.top, .middle, .bottom, .bottom_2 {
+	width: 100%;
+	height: auto;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-position: center;
+}
+
+.top_img {
+	max-width: 80%;
+	height: auto;
+}
+
+#intro {
+	padding-bottom: calc(5/250*100%);
+/*	padding-top: 50px;
+	padding-left: 50px; */
+}
+
+.middle {
+	position: relative;
+	background-color: #F7F7F7;
+}
+
+.middle_img {
+	max-width: 100%;
+	height: auto;
+}
+
+#insert_info {
+	position: relative;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.input_info, .input_dog_info {
+	height: 50px;
+	font-size: 23px;
+	border: 2px solid #007f41;
+	border-radius: 20px;	
+}
+
+.input_info{
+	margin-bottom: 20px;
+}
+
+/* #input_name {
+	width: 200px;
+	margin-right: 50px;
+}
+
+#input_phone_number {
+	width: 350px;
+} */
+
+/* #input_dog_kind {
+	width: 250px;
+	margin-right: 50px;
+}
+
+#input_dog_age {
+	width: 200px;
+	margin-right: 50px;
+}
+
+#input_dog_id {
+	width: 500px;
+} */
+
+
+/* #input_dog_info {
+	width : 700px;
+}
+
+form {
+	position: absolute;
+	width: 100%;
+	top: 40%;
+	max-width: 100%;
+	height: auto;
+}
+
+.agreement_wrapper {
+	position: absolute;
+	left: 30%;
+	top: 62%;
+	padding-top: 5px;
+}
+
+.agreement {
+	zoom: 1.5;
+}
+
+#agreement_label {
+	font-size: 23px;
+	font-weight: bold;
+	color: #007f41;
+}
+
+.button {
+	position: absolute;
+	width: 100%;
+	padding-top: 10px;
+	top: 72%;
+}
+
+#apply_button {
+	background-image: url('../images/apply_button.png');
+	background-repeat: no-repeat;
+	width: 375px;
+	height: 100px;
+	cursor: pointer;
+	border: none;
+	background-color: transparent;
+	background-size: contain;
+}
+
+#apply_button:hover {
+	opacity: 0.6;
+	transition: 1s ease-out;
+	-webkit-tap-highlight-color:transparent;
+} */
+
+#bottom_intro_ment {
+	padding-top: 20px;
+	padding-bottom: 40px;
+}
+
+#messenger_pic {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+#bottom_finale_ment {
+	padding-top: 40px;
+	padding-bottom: 20px;
+}
+
+#bottom_border {
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+#explanation_intro_ment {
+	padding-top: 20px;
+	padding-bottom: 50px;
+}
+
+/* #final_ment {
+//	-webkit-filter: opacity(0.5) drop-shadow(0 0 0 gray);
+//	filter: opacity(0.5) drop-shadow(0 0 0 red);
+} */
+
+body, html {
+	background-color: #F7F7F7;
+	margin: 0;
+	padding: 0;
+	border: none;
+	overflow-x: hidden;
+	width: 100%;
+	clear: both;
+}
+
+img {
+	max-width: 80%;
+	height: auto;
+}
+
+div {
+	text-align: center;
+}
