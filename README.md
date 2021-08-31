@@ -1,4 +1,4 @@
-# Outsourcing_Simple_Page
+# Outsourcing_Insurance_Page
 
 - Purpose : Advertise and inform pet insurance SIMPLY
 - URL : http://www.koko-dbinsu.com/
