@@ -1,0 +1,8 @@
+
+.classpath
+.project
+.settings/*
+*.prefs
+*.component
+*.name
+target/*

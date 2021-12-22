@@ -43,13 +43,13 @@
 		</div>
 		
 		<div id="intro">
-			<img src="resources/images/introduce.png" alt="DB 화재보험에서 반려견 가구를 위한 펫 보험을 선보입니다!" class="top_img">
+			<img src="resources/images/introduce.png" alt="DB 손해보험에서 반려견 가구를 위한 펫 보험을 선보입니다!" class="top_img">
 		</div>
 	</div>
 	
 	<div class="middle">
 		<div id="insert_info">
-			<img src="resources/images/insert_info_background.png" class="middle_img">
+			<img src="resources/images/insert_info_background.gif" class="middle_img">
 			<!-- <div id="insert_info_headline">
 				<img src="images/insert_info_headline.png" class="middle_img">
 			</div>
