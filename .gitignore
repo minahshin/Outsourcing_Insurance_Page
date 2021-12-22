@@ -6,3 +6,4 @@
 *.component
 *.name
 target/*
+.springBeans
