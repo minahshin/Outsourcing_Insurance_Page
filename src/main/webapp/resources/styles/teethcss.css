@@ -1,19 +1,20 @@
 .top {
-	background: url('../images/pet/top_background.png') center center no-repeat;
+	background: url('../images/teeth/top_background.png') center center no-repeat;
 }
 
 .middle {
-	background: url('../images/pet/middle_background.png') center center no-repeat; 
+	background: url('../images/teeth/middle_background.png') center center no-repeat; 
 }
 
 .bottom {
-	background: url('../images/pet/bottom_background_1.png') center center no-repeat;
+	background: url('../images/teeth/bottom_background_1.png') center center no-repeat;
 	padding-top: 40px;
-	padding-bottom: 120px;
+	padding-bottom: 20px;
 }
 
 .bottom_2 {
-	background: url('../images/pet/bottom_background_2.png') center center no-repeat;
+	background: url('../images/teeth/bottom_background_2.png') center center no-repeat;
+	height: 100vh;
 }
 
 .top, .middle, .bottom, .bottom_2 {
@@ -31,8 +32,12 @@
 	height: auto;
 }
 
+#title {
+	padding-top: 50px;
+}
+
 #intro {
-	padding-bottom: calc(5/250*100%);
+	margin-bottom: -5px
 }
 
 .middle {
@@ -51,16 +56,6 @@
 	padding-bottom: 50px;
 }
 
-.input_info, .input_dog_info {
-	height: 50px;
-	font-size: 23px;
-	border: 2px solid #007f41;
-	border-radius: 20px;	
-}
-
-.input_info{
-	margin-bottom: 20px;
-}
 
 #bottom_intro_ment {
 	padding-top: 20px;
@@ -74,16 +69,23 @@
 
 #bottom_finale_ment {
 	padding-top: 40px;
+}
+
+.bottom_border {
 	padding-bottom: 20px;
 }
 
-#bottom_border {
+.explanation_ment {
 	padding-top: 40px;
-	padding-bottom: 40px;
+	padding-bottom: 50px;
 }
 
-#explanation_intro_ment {
-	padding-top: 20px;
+.other_ment {
+	padding-top: 50px;
+	padding-bottom: 30px;
+}
+
+#pet_button {
 	padding-bottom: 50px;
 }
 

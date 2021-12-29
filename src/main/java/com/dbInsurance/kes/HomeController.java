@@ -18,4 +18,8 @@ public class HomeController {
 		return "pet";
 	}
 	
+	@RequestMapping(value = "/teeth", method = RequestMethod.GET)
+	public String teeth() {		
+		return "teeth";
+	}
 }

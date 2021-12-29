@@ -42,17 +42,17 @@
 	<div class="top">
 		<!-- <img src="resources/images/upper_background.png" id="background_img"> -->
 		<div id="title">
-			<img src="resources/images/petInsuranceTitle.png" alt="I love pet 보험" class="top_img">
+			<img src="resources/images/pet/insurance_title.png" alt="I love pet 보험" class="top_img">
 		</div>
 		
 		<div id="intro">
-			<img src="resources/images/introduce.png" alt="DB 손해보험에서 반려견 가구를 위한 펫 보험을 선보입니다!" class="top_img">
+			<img src="resources/images/pet/introduce.png" alt="DB 손해보험에서 반려견 가구를 위한 펫 보험을 선보입니다!" class="top_img">
 		</div>
 	</div>
 	
 	<div class="middle">
 		<div id="insert_info">
-			<img src="resources/images/insert_info_background.gif" class="middle_img">
+			<img src="resources/images/pet/insert_info_background.gif" class="middle_img">
 			<!-- <div id="insert_info_headline">
 				<img src="images/insert_info_headline.png" class="middle_img">
 			</div>
@@ -80,34 +80,34 @@
 	
 	<div class="bottom">
 		<div id="bottom_intro_ment">
-			<img src="resources/images/bottom_intro_ment.png">
+			<img src="resources/images/pet/bottom_intro_ment.png">
 		</div>
 		<div id="messenger_pic">
-			<img src="resources/images/messenger.png">
+			<img src="resources/images/pet/messenger.png">
 		</div>
 		
 		<div id="bottom_finale_ment">
-			<img src="resources/images/bottom_finale_ment.png">
+			<img src="resources/images/pet/bottom_finale_ment.png">
 		</div>
 		
 		<div id="bottom_border">
-			<img src="resources/images/bottom_border.png">
+			<img src="resources/images/pet/bottom_border.png">
 		</div>
 		
 		<div id="explanation_intro_ment">
-			<img src="resources/images/explanation_intro.png">
+			<img src="resources/images/pet/explanation_intro.png">
 		</div>
 		
 		<div id="explanation-1">
-			<img src="resources/images/explanation-1.png">
+			<img src="resources/images/pet/explanation_1.png">
 		</div>
 		<div id="explanation-2">
-			<img src="resources/images/explanation-2.png">
+			<img src="resources/images/pet/explanation_2.png">
 		</div>
 	</div>
 	
 	<div class="bottom_2"> 
-		<img src="resources/images/final_ment.png" id="final_ment">
+		<img src="resources/images/pet/final_ment.png" id="final_ment">
 	</div>
 	</body>
 </html>
