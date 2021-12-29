@@ -21,7 +21,7 @@
 		<meta property="og:description" content="DB 손해보험에서 아이부터 어른까지의 치과 치료, 관리까지 참 좋은 치아사랑보험으로 책임집니다!
 		DB손해보험, 치아보험, 치아사랑보험, 임플란트 보험, 참 좋은 치아사랑보험">
 		<meta property="og:keywords" content="DB손해보험, 치아보험, 치아사랑보험, 임플란트 보험, 참 좋은 치아사랑보험">
-		<meta property="og:image" content="resources/images/pet_head_image.png">
+		<meta property="og:image" content="resources/images/teeth/teeth_head_image.png">
 		<meta property="og:url" content="http://www.koko-dbinsu.com/teeth">
 		
 		<title>DB 손해보험 참 좋은 치아사랑보험</title>
