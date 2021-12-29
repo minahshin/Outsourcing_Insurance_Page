@@ -22,7 +22,7 @@
 		DB손해보험, 치아보험, 치아사랑보험, 임플란트 보험, 참 좋은 치아사랑보험">
 		<meta property="og:keywords" content="DB손해보험, 치아보험, 치아사랑보험, 임플란트 보험, 참 좋은 치아사랑보험">
 		<meta property="og:image" content="resources/images/pet_head_image.png">
-		<meta property="og:url" content="http://www.koko-dbinsu.com">
+		<meta property="og:url" content="http://www.koko-dbinsu.com/teeth">
 		
 		<title>DB 손해보험 참 좋은 치아사랑보험</title>
 		<link rel="stylesheet" href="resources/styles/teethcss.css">
