@@ -26,7 +26,7 @@
 		
 		<title>DB 손해보험 I LOVE PET 보험</title>
 		<link rel="stylesheet" href="resources/styles/petcss.css">
-		<script type="text/javascript" src="resources/javaScript/css_functions.js" charset="utf-8"></script>
+<!-- 	<script type="text/javascript" src="resources/javaScript/css_functions.js" charset="utf-8"></script>
 		<script type="text/javascript" src="resources/javaScript/input_functions.js" charset="utf-8"></script>
 		<script type="text/javascript "src="http://code.jquery.com/jquery-latest.min.js"></script>
 		<script type="text/javascript">
@@ -36,7 +36,7 @@
 			window.addEventListener("resize", resizeBtn);
 			window.addEventListener("resize", resizeInput);
 			window.addEventListener("resize", resizeFont);
-		</script>
+		</script> -->
 	</head>
 	<body ontouchstart="">
 	<div class="top">

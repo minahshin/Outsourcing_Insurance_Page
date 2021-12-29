@@ -26,17 +26,6 @@
 		
 		<title>DB 손해보험 참 좋은 치아사랑보험</title>
 		<link rel="stylesheet" href="resources/styles/teethcss.css">
-		<script type="text/javascript" src="resources/javaScript/css_functions.js" charset="utf-8"></script>
-		<script type="text/javascript" src="resources/javaScript/input_functions.js" charset="utf-8"></script>
-		<script type="text/javascript "src="http://code.jquery.com/jquery-latest.min.js"></script>
-		<script type="text/javascript">
-			$(window).ready(resizeBtn);
-			$(window).ready(resizeInput);
-			$(window).ready(resizeFont);
-			window.addEventListener("resize", resizeBtn);
-			window.addEventListener("resize", resizeInput);
-			window.addEventListener("resize", resizeFont);
-		</script>
 	</head>
 	<body ontouchstart="">
 	<div class="top">
