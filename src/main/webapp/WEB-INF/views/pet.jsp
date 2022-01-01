@@ -107,7 +107,12 @@
 	</div>
 	
 	<div class="bottom_2"> 
-		<img src="resources/images/pet/final_ment.png" id="final_ment">
+		<div class="other_ment">
+			<img src="resources/images/pet/teeth_ment.png">
+		</div>
+		<a href="http://www.koko-dbinsu.com/teeth" target="_blank">
+			<img src="resources/images/pet/teeth_button.gif" id="teeth_button">
+		</a>
 	</div>
 	</body>
 </html>
